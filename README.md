@@ -1,2 +1,3 @@
 # PYTHON-PROJECT
-This repo is used for storing my python codes for the intended project
+
+•	Developed Python code and configured Lambda functions for automation in AWS, such as moving files to folder in S3 based on their creation date, scans container images for vulnerability.
